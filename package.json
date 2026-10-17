@@ -1,0 +1,16 @@
+{
+  "name": "timeweave",
+  "version": "1.0.0",
+  "description": "A warm world clock and meeting planner for people in different corners of the day. Time zones, working hours, and shared moments.",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
